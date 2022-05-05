@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animation/static/css/main.3d0546e5.css",
+    "main.js": "/animation/static/js/main.fd689701.js",
+    "index.html": "/animation/index.html",
+    "main.3d0546e5.css.map": "/animation/static/css/main.3d0546e5.css.map",
+    "main.fd689701.js.map": "/animation/static/js/main.fd689701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0546e5.css",
+    "static/js/main.fd689701.js"
+  ]
+}
